@@ -72,11 +72,10 @@
   translation: "404. Page not found"
 
 - id: 404_text
-  translation:
-    "The page you were looking for appears to have been moved, deleted or does not exist. Please, use search or go to"
+  translation: "The page you were looking for appears to have been moved, deleted or does not exist. "
 
 - id: 404_linktext
-  translation: "main page"
+  translation: "Click here to go back home."
 
 # No posts empty state
 - id: noposts_warning_title
